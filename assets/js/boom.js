@@ -1,0 +1,1 @@
+document.body.removeAttribute('style');

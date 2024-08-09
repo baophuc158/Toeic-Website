@@ -1,0 +1,157 @@
+[21-Oct-2022 18:25:37 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 8
+[21-Oct-2022 18:26:20 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 8
+[21-Oct-2022 18:26:23 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 8
+[21-Oct-2022 19:07:12 Asia/Ho_Chi_Minh] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ayayatoe_root'@'localhost' (using password: YES) in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 8
+[21-Oct-2022 19:14:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[21-Oct-2022 19:28:27 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[21-Oct-2022 19:28:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[21-Oct-2022 19:28:27 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[21-Oct-2022 19:28:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[21-Oct-2022 19:28:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[21-Oct-2022 19:31:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[21-Oct-2022 19:32:41 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[21-Oct-2022 21:35:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[21-Oct-2022 21:36:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[21-Oct-2022 21:36:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[21-Oct-2022 22:24:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[21-Oct-2022 22:32:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[22-Oct-2022 07:00:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[22-Oct-2022 07:00:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[22-Oct-2022 10:16:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[22-Oct-2022 10:17:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[22-Oct-2022 10:17:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[22-Oct-2022 10:17:33 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[22-Oct-2022 10:18:30 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[22-Oct-2022 10:18:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[22-Oct-2022 10:18:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.32. in /home/ayayatoe/public_html/logingoogle/vendor/composer/platform_check.php on line 24
+[22-Oct-2022 14:51:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[22-Oct-2022 14:51:31 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[22-Oct-2022 14:51:31 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[22-Oct-2022 14:51:31 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[22-Oct-2022 14:51:31 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[22-Oct-2022 18:50:02 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[22-Oct-2022 18:50:02 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[22-Oct-2022 18:50:02 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[22-Oct-2022 18:50:02 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[22-Oct-2022 18:50:02 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:46:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:46:40 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:46:40 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:46:40 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:46:40 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:46:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:46:50 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:46:50 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:46:50 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:46:50 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:46:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:46:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:46:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:46:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:46:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:47:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:47:16 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:47:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:47:16 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:47:16 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:47:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:47:23 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:47:23 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:47:23 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:47:23 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:47:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:47:32 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:47:32 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:47:32 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:47:32 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:48:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:09 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:09 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:09 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:09 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:48:15 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:15 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:15 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:15 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:15 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:48:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:19 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:48:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:22 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:22 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:22 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:22 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:48:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:33 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:33 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:33 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:33 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:48:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:48:55 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:48:55 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 10:53:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:53:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 10:53:08 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:53:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 10:53:08 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 11:00:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 11:00:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 76
+[25-Oct-2022 11:00:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 11:00:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 11:00:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 11:03:27 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 11:03:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[25-Oct-2022 11:03:27 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 11:03:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[25-Oct-2022 11:03:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 79
+[28-Oct-2022 23:26:47 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[28-Oct-2022 23:26:47 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[28-Oct-2022 23:26:47 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[28-Oct-2022 23:26:47 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[28-Oct-2022 23:26:47 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 79
+[08-Dec-2022 18:34:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[08-Dec-2022 18:34:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[08-Dec-2022 18:34:58 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[08-Dec-2022 18:34:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[08-Dec-2022 18:34:58 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 79
+[31-Jan-2023 17:23:27 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[31-Jan-2023 17:23:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[31-Jan-2023 17:23:27 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[31-Jan-2023 17:23:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[31-Jan-2023 17:23:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 79
+[06-Mar-2023 12:35:27 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[06-Mar-2023 12:35:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[06-Mar-2023 12:35:27 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[06-Mar-2023 12:35:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[06-Mar-2023 12:35:27 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 79
+[16-Apr-2023 21:06:04 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[16-Apr-2023 21:06:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[16-Apr-2023 21:06:04 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[16-Apr-2023 21:06:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[16-Apr-2023 21:06:04 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 79
+[16-Apr-2023 21:15:13 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "access_token" in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 34
+[16-Apr-2023 21:15:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught InvalidArgumentException: invalid json token in /home/ayayatoe/public_html/logingoogle/src/Client.php:517
+Stack trace:
+#0 /home/ayayatoe/public_html/logingoogle/redirect-google.php(34): Google\Client->setAccessToken()
+#1 {main}
+  thrown in /home/ayayatoe/public_html/logingoogle/src/Client.php on line 517
+[02-May-2023 22:33:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[02-May-2023 22:33:48 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[02-May-2023 22:33:48 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[02-May-2023 22:33:48 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[02-May-2023 22:33:48 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 79
+[23-May-2023 14:49:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[23-May-2023 14:49:17 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[23-May-2023 14:49:17 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[23-May-2023 14:49:17 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[23-May-2023 14:49:17 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 79
+[02-Jun-2023 01:44:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[02-Jun-2023 01:44:03 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 77
+[02-Jun-2023 01:44:03 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $re1 in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[02-Jun-2023 01:44:03 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 78
+[02-Jun-2023 01:44:03 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/ayayatoe/public_html/logingoogle/redirect-google.php on line 79

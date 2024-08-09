@@ -1,0 +1,4 @@
+course - trang lộ trình
+gallery - nội dung ôn
+blog-archive - trang diễn đàn
+404 - trang Test

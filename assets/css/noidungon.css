@@ -1,0 +1,68 @@
+.tit{
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    color: #1d1d1d;
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.practice-name{
+    color: #333;
+    font-weight: 700;
+    font-size: 20px;
+    padding-left: 15px;
+}
+.practice-list-item{
+    background: #fff;
+    padding: 16px;
+    border-bottom: 1px solid #f2f3f7;
+    align-items: center;
+}
+.trai{
+    width: 70%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 50px;
+    float: left;
+}
+.phai{
+    width: 28%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-right: 100px;
+    float: right;
+    
+}
+.form-control{
+    height: 100%;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.ds{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+}
+.ten_test{
+    font-family: 'Ubuntu', sans-serif;
+    display: flexbox;
+}
+#nen_trai{
+    background-color: rgba(128, 128, 128, 0.101);
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.diff{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+/*#nen_phai{
+    background-color: rgba(128, 128, 128, 0.101);
+    border: 1px solid grey;
+    border-radius: 10px;
+}*/
+.other{
+    text-align: left;
+}
+
